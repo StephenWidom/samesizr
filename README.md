@@ -18,4 +18,6 @@ $(window).on("load resize",function(){
 ### mobile:   767 
 The browser width below which samesizr sets matched elements' height to 'auto'
 
+[See it in action](http://stephenwidom.com/projects/samesizr)
+
 *Developed by Stephen Widom - http://stephenwidom.com*
